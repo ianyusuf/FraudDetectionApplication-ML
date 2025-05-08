@@ -29,7 +29,7 @@ Fraudtotype adalah aplikasi pintar yang dirancang untuk menganalisa dan mempredi
 - Logistic Regression
 - Random Forest
 
-Masing-masing mmodel dievaluasi berdasarkan:
+Masing-masing model dievaluasi berdasarkan:
 - Cross Validation Scores
 - Recall
 

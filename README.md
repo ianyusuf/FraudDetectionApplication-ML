@@ -1,10 +1,8 @@
-# 🏦 Fraud Detection Application
+# 🛡️ Fraud Detection Application
 Fraudtotype adalah aplikasi pintar yang dirancang untuk menganalisa dan memprediksi potensi aktivitas fraud. Dengan kombinasi analisa pola transaksi dengan teknologi machine learning, Fraudtotype membantu bisnis mengidentifikasi perilaku mencurigakan sebelum menyebabkan kerugian yang signifikan.
 
 ## 📂 Dataset Source
 [Credit Card Fraud Prediction - Kaggle](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction/data)
-
-# 📚 Business Understanding
 
 ## 📌 Background
 **Problem**: Penipuan dalam transaksi digital semakin meningkat setiap tahunnya, menimbulkan kerugian besar bagi pelaku industri finansial dan e-commerce. Banyak sistem keamanan masih bersifat reaktif, bukan preventif, sehingga penipuan baru diketahui setelah kerugian terjadi. Menurut laporan KPMG Global Banking Fraud Survey, lebih dari 50% institusi keuangan global mengalami peningkatan signifikan dalam kasus penipuan digital di tahun 2019.
@@ -31,7 +29,7 @@ Fraudtotype adalah aplikasi pintar yang dirancang untuk menganalisa dan mempredi
 - Logistic Regression
 - Random Forest
 
-Each model was evaluated based on:
+Masing-masing mmodel dievaluasi berdasarkan:
 - Cross Validation Scores
 - Recall
 
